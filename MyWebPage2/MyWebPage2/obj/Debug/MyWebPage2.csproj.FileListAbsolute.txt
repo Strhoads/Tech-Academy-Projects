@@ -1,0 +1,7 @@
+c:\users\thear\source\repos\MyWebPage2\MyWebPage2\bin\MyWebPage2.dll.config
+c:\users\thear\source\repos\MyWebPage2\MyWebPage2\bin\MyWebPage2.dll
+c:\users\thear\source\repos\MyWebPage2\MyWebPage2\bin\MyWebPage2.pdb
+c:\users\thear\source\repos\MyWebPage2\MyWebPage2\obj\Debug\MyWebPage2.csprojResolveAssemblyReference.cache
+c:\users\thear\source\repos\MyWebPage2\MyWebPage2\obj\Debug\MyWebPage2.csproj.CoreCompileInputs.cache
+c:\users\thear\source\repos\MyWebPage2\MyWebPage2\obj\Debug\MyWebPage2.dll
+c:\users\thear\source\repos\MyWebPage2\MyWebPage2\obj\Debug\MyWebPage2.pdb
