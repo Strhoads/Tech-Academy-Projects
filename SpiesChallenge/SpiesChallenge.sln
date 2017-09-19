@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpiesChallenge", "SpiesChallenge\SpiesChallenge.csproj", "{7B8A5120-47CD-4121-A408-BCAE115EC1CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B8A5120-47CD-4121-A408-BCAE115EC1CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B8A5120-47CD-4121-A408-BCAE115EC1CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B8A5120-47CD-4121-A408-BCAE115EC1CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B8A5120-47CD-4121-A408-BCAE115EC1CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC662087-3E7C-423C-9200-FA0ED1E250C3}
+	EndGlobalSection
+EndGlobal
