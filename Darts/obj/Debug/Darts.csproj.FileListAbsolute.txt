@@ -1,0 +1,6 @@
+c:\users\thear\source\repos\SimpleDarts\Darts\bin\Debug\Darts.dll
+c:\users\thear\source\repos\SimpleDarts\Darts\bin\Debug\Darts.pdb
+c:\users\thear\source\repos\SimpleDarts\Darts\obj\Debug\Darts.csprojResolveAssemblyReference.cache
+c:\users\thear\source\repos\SimpleDarts\Darts\obj\Debug\Darts.csproj.CoreCompileInputs.cache
+c:\users\thear\source\repos\SimpleDarts\Darts\obj\Debug\Darts.dll
+c:\users\thear\source\repos\SimpleDarts\Darts\obj\Debug\Darts.pdb
